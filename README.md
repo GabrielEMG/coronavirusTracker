@@ -1,10 +1,10 @@
 This is a single-page app that fetch coronavirus data for every country and display the data in a linear chart of the progression through the year.
-The data includes:
-  -population
-  -active cases
-  -critical cases
-  -death cases
-  -tests
+The data includes:</br>
+  -population<br />
+  -active cases<br />
+  -critical cases<br />
+  -death cases<br />
+  -tests<br />
 
 
 This project is managed with YARN.
