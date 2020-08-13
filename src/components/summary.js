@@ -12,8 +12,6 @@ import CircularProgress from "@material-ui/core/CircularProgress";
 const SummaryData = () => {
   const { data, country, isLoading } = useFetchSummary();
 
-  console.log(data);
-
   let rows;
   if (!isLoading) {
     rows = [
