@@ -1,4 +1,4 @@
-This is a single-page app that fetch coronavirus data for every country and display the data in a linear chart of the progression through the year.
+This is a single-page app that fetch coronavirus data for every country and displays it in a linear chart to visualize the progress through the year.
 The data includes:</br>
   -population<br />
   -active cases<br />
