@@ -10,8 +10,8 @@ The data includes:</br>
 Check my project online in -> https://gabrielemg.github.io/coronavirusTracker/
 
 
-Or run it in your machine:
-$git clone https://github.com/GabrielEMG/coronavirusTracker
-$yarn install
-$yarn start
+Or run it in your machine:<br />
+$git clone https://github.com/GabrielEMG/coronavirusTracker<br />
+$yarn install<br />
+$yarn start<br />
 
