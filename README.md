@@ -7,11 +7,11 @@ The data includes:</br>
   -tests<br />
 
 
-This project is managed with YARN.
+Check my project online in -> https://gabrielemg.github.io/coronavirusTracker/
 
-### `yarn start`
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
+Or run it in your machine:
+$git clone https://github.com/GabrielEMG/coronavirusTracker
+$yarn install
+$yarn start
 
