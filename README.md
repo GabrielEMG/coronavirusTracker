@@ -7,10 +7,7 @@ The data includes:</br>
   - Tests<br />
 
 
-#### Check my project online here -> https://gabrielemg.github.io/coronavirusTracker/ <br /><br />
-
-
-Or run it in your machine:
+To run it in your machine:
 
 ```sh
 $ git clone https://github.com/GabrielEMG/coronavirusTracker
