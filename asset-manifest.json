@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/coronavirusTracker/static/css/main.18ccfd17.chunk.css",
-    "main.js": "/coronavirusTracker/static/js/main.d1f91f3d.chunk.js",
-    "main.js.map": "/coronavirusTracker/static/js/main.d1f91f3d.chunk.js.map",
-    "runtime-main.js": "/coronavirusTracker/static/js/runtime-main.65ce56d5.js",
-    "runtime-main.js.map": "/coronavirusTracker/static/js/runtime-main.65ce56d5.js.map",
-    "static/js/2.6bbfeec5.chunk.js": "/coronavirusTracker/static/js/2.6bbfeec5.chunk.js",
-    "static/js/2.6bbfeec5.chunk.js.map": "/coronavirusTracker/static/js/2.6bbfeec5.chunk.js.map",
-    "index.html": "/coronavirusTracker/index.html",
-    "precache-manifest.986e264824e349945f66599765432d1a.js": "/coronavirusTracker/precache-manifest.986e264824e349945f66599765432d1a.js",
-    "service-worker.js": "/coronavirusTracker/service-worker.js",
-    "static/css/main.18ccfd17.chunk.css.map": "/coronavirusTracker/static/css/main.18ccfd17.chunk.css.map",
-    "static/js/2.6bbfeec5.chunk.js.LICENSE.txt": "/coronavirusTracker/static/js/2.6bbfeec5.chunk.js.LICENSE.txt"
+    "main.css": "/coronavirusTracker-react/static/css/main.18ccfd17.chunk.css",
+    "main.js": "/coronavirusTracker-react/static/js/main.daae68a7.chunk.js",
+    "main.js.map": "/coronavirusTracker-react/static/js/main.daae68a7.chunk.js.map",
+    "runtime-main.js": "/coronavirusTracker-react/static/js/runtime-main.924ca084.js",
+    "runtime-main.js.map": "/coronavirusTracker-react/static/js/runtime-main.924ca084.js.map",
+    "static/js/2.2199290c.chunk.js": "/coronavirusTracker-react/static/js/2.2199290c.chunk.js",
+    "static/js/2.2199290c.chunk.js.map": "/coronavirusTracker-react/static/js/2.2199290c.chunk.js.map",
+    "index.html": "/coronavirusTracker-react/index.html",
+    "precache-manifest.22173bb47a11c7f352fa9dc99455351f.js": "/coronavirusTracker-react/precache-manifest.22173bb47a11c7f352fa9dc99455351f.js",
+    "service-worker.js": "/coronavirusTracker-react/service-worker.js",
+    "static/css/main.18ccfd17.chunk.css.map": "/coronavirusTracker-react/static/css/main.18ccfd17.chunk.css.map",
+    "static/js/2.2199290c.chunk.js.LICENSE.txt": "/coronavirusTracker-react/static/js/2.2199290c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.65ce56d5.js",
-    "static/js/2.6bbfeec5.chunk.js",
+    "static/js/runtime-main.924ca084.js",
+    "static/js/2.2199290c.chunk.js",
     "static/css/main.18ccfd17.chunk.css",
-    "static/js/main.d1f91f3d.chunk.js"
+    "static/js/main.daae68a7.chunk.js"
   ]
 }
